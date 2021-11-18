@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parrishjw
 - 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me ...
 
